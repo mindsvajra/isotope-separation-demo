@@ -24,7 +24,11 @@ cd isotope-separation-demo
 pip install -r requirements.txt
 streamlit run app.py
 
-The app will open in your browser.Examples & InsightsGaseous diffusion requires ~4,000 stages for LEU vs. ~50–100 for modern centrifuges
+The app will open in your browser.
+```
+
+Examples & Insights
+Gaseous diffusion requires ~4,000 stages for LEU vs. ~50–100 for modern centrifuges
 Chemical exchange (e.g., historical Girdler-Sulfide for deuterium) achieves higher α per stage
 Lithium-6 enrichment historically used toxic mercury-based COLEX process (now banned) – illustrates why fusion fuel separation remains challenging
 
