@@ -34,5 +34,4 @@ Lithium-6 enrichment historically used toxic mercury-based COLEX process (now ba
 
 Disclaimer
 
-This is an educational physics demonstration only. It is not intended for, nor capable of, supporting real-world isotope separation activities.LicenseMIT License – see LICENSE for details.
-
+This is an educational physics demonstration only. It is not intended for, nor capable of, supporting real-world isotope separation activities.
